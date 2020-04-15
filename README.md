@@ -7,11 +7,11 @@ The project finds out the differences using OpenCV functions.
 
 Image A
 
-![alt text](https://raw.githubusercontent.com/amitguptapc/Photo-Hunt-Solver/master/data/10.png)
+<img src="data/10.png" width="730">
 
 Image B
 
-![alt text](https://raw.githubusercontent.com/amitguptapc/Photo-Hunt-Solver/master/data/11.png)
+<img src="data/11.png" width="730">
 
 ### Solution : 
 
